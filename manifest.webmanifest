@@ -1,0 +1,28 @@
+{
+  "name": "آرامِ سپیده",
+  "short_name": "آرام سپیده",
+  "description": "چهار قل، هر یک هفت مرتبه، و دعای گشایش؛ همراه آرامِ هر روز",
+  "lang": "fa",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F7F4EE",
+  "theme_color": "#F7F4EE",
+  "orientation": "portrait-primary",
+  "categories": ["lifestyle", "health", "education"],
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}

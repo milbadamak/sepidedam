@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="آرام سپیده">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#FBF9F5"/>
+      <stop offset="1" stop-color="#EAF2EC"/>
+    </linearGradient>
+    <linearGradient id="ring" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#93B8A6"/>
+      <stop offset="1" stop-color="#6E9C86"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#DCBF81"/>
+      <stop offset="1" stop-color="#B8944F"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="120" fill="url(#bg)"/>
+  <circle cx="256" cy="256" r="176" fill="none" stroke="url(#ring)" stroke-width="14"/>
+  <path d="M256 126c-72 64-114 116-114 172 0 69 51 108 114 108s114-39 114-108c0-56-42-108-114-172Z"
+        fill="none" stroke="#26332C" stroke-width="13" stroke-linejoin="round"/>
+  <path d="M205 252c26-22 58-22 87 0" fill="none" stroke="url(#gold)" stroke-width="15" stroke-linecap="round"/>
+  <circle cx="256" cy="262" r="12" fill="url(#gold)"/>
+</svg>
